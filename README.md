@@ -10,6 +10,7 @@
   * 인프런 김영한님의 HTTP 강의를 듣고 정리하였습니다.
   * [1. 인터넷 네트워크](https://abcdefgh123123.tistory.com/373)
   * [2. HTTP 기본](https://abcdefgh123123.tistory.com/377)
+  * [3. HTTP 메서드](https://abcdefgh123123.tistory.com/378)
 
 * 운영체제
   * kocw 이화여대 반효경 교수님의 운영체제 강의를 듣고 정리하였습니다.
