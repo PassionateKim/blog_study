@@ -12,6 +12,7 @@
   * [2. HTTP 기본](https://abcdefgh123123.tistory.com/377)
   * [3. HTTP 메서드](https://abcdefgh123123.tistory.com/378)
   * [4. HTTP 상태코드](https://abcdefgh123123.tistory.com/379)
+  * [5. HTTP 헤더](https://abcdefgh123123.tistory.com/380)
 
 * 운영체제
   * kocw 이화여대 반효경 교수님의 운영체제 강의를 듣고 정리하였습니다.
