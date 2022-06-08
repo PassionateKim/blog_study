@@ -18,3 +18,4 @@
   * kocw 이화여대 반효경 교수님의 운영체제 강의를 듣고 정리하였습니다.
   * [1. cpu 스케줄링, 메모리 관리, 디스크 스케줄링](https://abcdefgh123123.tistory.com/372)
   * [2. 컴퓨터 시스템 구조](https://abcdefgh123123.tistory.com/376)
+  * [3. 프로세스 관리](https://abcdefgh123123.tistory.com/381)
