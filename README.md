@@ -19,3 +19,4 @@
   * [1. cpu 스케줄링, 메모리 관리, 디스크 스케줄링](https://abcdefgh123123.tistory.com/372)
   * [2. 컴퓨터 시스템 구조](https://abcdefgh123123.tistory.com/376)
   * [3. 프로세스 관리](https://abcdefgh123123.tistory.com/381)
+  * [4. CPU 스케줄링](https://abcdefgh123123.tistory.com/390)
