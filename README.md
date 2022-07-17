@@ -20,4 +20,5 @@
   * [2. 컴퓨터 시스템 구조](https://abcdefgh123123.tistory.com/376)
   * [3. 프로세스 관리](https://abcdefgh123123.tistory.com/381)
   * [4. CPU 스케줄링](https://abcdefgh123123.tistory.com/390)
-  * [5. Process Synchronization 1](https://abcdefgh123123.tistory.com/430)
+  * [5-1. Process Synchronization 1](https://abcdefgh123123.tistory.com/430)
+  * [5-2. Process Synchronization 2](https://abcdefgh123123.tistory.com/432)
