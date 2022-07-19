@@ -25,4 +25,5 @@
   * [5-3. 세마포어와 모니터 정리](https://abcdefgh123123.tistory.com/433)
   * [6. DeadLock](https://abcdefgh123123.tistory.com/434)
   * [7-1. 주소 바인딩과 MMU](https://abcdefgh123123.tistory.com/435)
+  * [7-1. 페이징 기법](https://abcdefgh123123.tistory.com/437)
 
