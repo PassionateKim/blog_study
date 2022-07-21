@@ -27,5 +27,5 @@
   * [7-1. 주소 바인딩과 MMU](https://abcdefgh123123.tistory.com/435)
   * [7-2. 페이징 기법](https://abcdefgh123123.tistory.com/437)
   * [7-3. 가상 메모리](https://abcdefgh123123.tistory.com/439)
-  * [7-4. 메모리 해제와 할당의 동작 원리](https://abcdefgh123123.tistory.com/44)
+  * [7-4. 메모리 해제와 할당의 동작 원리](https://abcdefgh123123.tistory.com/440)
 
