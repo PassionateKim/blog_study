@@ -29,4 +29,6 @@
   * [7-3. 가상 메모리](https://abcdefgh123123.tistory.com/439)
   * [7-4. 메모리 해제와 할당의 동작 원리](https://abcdefgh123123.tistory.com/440)
   * [8-1. 디스크 시스템](https://abcdefgh123123.tistory.com/444)
+  * [8-2. 파일 시스템](https://abcdefgh123123.tistory.com/446)
+
 
