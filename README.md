@@ -1,5 +1,5 @@
 ### 소개
-머릿속의 지식을 정리하고 공유하기 위해 기술 블로그를 운영하고 있습니다.
+머릿속의 지식을 정리하고 공유하기 위해 기술 블로그를 운영
 
 * [블로그 바로가기](https://abcdefgh123123.tistory.com/category/IT) 
 
@@ -7,7 +7,7 @@
 ## 목차
 
 * **HTTP**
-  * 인프런 김영한님의 HTTP 강의를 듣고 정리하였습니다.
+  * 인프런 김영한님의 HTTP 강의를 듣고 정리
   * [1. 인터넷 네트워크](https://abcdefgh123123.tistory.com/373)
   * [2. HTTP 기본](https://abcdefgh123123.tistory.com/377)
   * [3. HTTP 메서드](https://abcdefgh123123.tistory.com/378)
@@ -15,7 +15,7 @@
   * [5. HTTP 헤더](https://abcdefgh123123.tistory.com/380)
 
 * **운영체제**
-  * kocw 이화여대 반효경 교수님의 운영체제 강의를 듣고 정리하였습니다.
+  * kocw 이화여대 반효경 교수님의 운영체제 강의를 듣고 정리
   * [1. cpu 스케줄링, 메모리 관리, 디스크 스케줄링](https://abcdefgh123123.tistory.com/372)
   * [2. 컴퓨터 시스템 구조](https://abcdefgh123123.tistory.com/376)
   * [3. 프로세스 관리](https://abcdefgh123123.tistory.com/381)
@@ -31,6 +31,12 @@
   * [8-1. 디스크 시스템](https://abcdefgh123123.tistory.com/444)
   * [8-2. 파일 시스템](https://abcdefgh123123.tistory.com/446)
   * [9. 버퍼와 캐시](https://abcdefgh123123.tistory.com/447)
+  
+* **데이터베이스**
+  * kocw 한양대 백현미 교수님의 운영체제 강의를 듣고 정리
+  * [1. 데이터베이스 개념](https://abcdefgh123123.tistory.com/453)
+  
+  
   
 * **알고리즘**
   * [투포인터](https://abcdefgh123123.tistory.com/451)
