@@ -6,7 +6,7 @@
 
 ## 목차
 
-* HTTP
+* **HTTP**
   * 인프런 김영한님의 HTTP 강의를 듣고 정리하였습니다.
   * [1. 인터넷 네트워크](https://abcdefgh123123.tistory.com/373)
   * [2. HTTP 기본](https://abcdefgh123123.tistory.com/377)
@@ -14,7 +14,7 @@
   * [4. HTTP 상태코드](https://abcdefgh123123.tistory.com/379)
   * [5. HTTP 헤더](https://abcdefgh123123.tistory.com/380)
 
-* 운영체제
+* **운영체제**
   * kocw 이화여대 반효경 교수님의 운영체제 강의를 듣고 정리하였습니다.
   * [1. cpu 스케줄링, 메모리 관리, 디스크 스케줄링](https://abcdefgh123123.tistory.com/372)
   * [2. 컴퓨터 시스템 구조](https://abcdefgh123123.tistory.com/376)
@@ -31,5 +31,8 @@
   * [8-1. 디스크 시스템](https://abcdefgh123123.tistory.com/444)
   * [8-2. 파일 시스템](https://abcdefgh123123.tistory.com/446)
   * [9. 버퍼와 캐시](https://abcdefgh123123.tistory.com/447)
+  
+* **알고리즘**
+  * [투포인터](https://abcdefgh123123.tistory.com/451)
 
 
