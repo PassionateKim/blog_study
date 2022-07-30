@@ -33,9 +33,10 @@
   * [9. 버퍼와 캐시](https://abcdefgh123123.tistory.com/447)
   
 * **데이터베이스**
-  * kocw 한양대 백현미 교수님의 운영체제 강의를 듣고 정리
-  * [1. 데이터베이스 개념](https://abcdefgh123123.tistory.com/453)
+  * kocw 한양대 백현미 교수님의 데이터베이스 강의를 듣고 정리
+  * [1. 데이터베이스](https://abcdefgh123123.tistory.com/453)
   * [2. 데이터베이스 관리 시스템](https://abcdefgh123123.tistory.com/455)
+  * [3. 데이터베이스 시스템](https://abcdefgh123123.tistory.com/457)
   
   
   
