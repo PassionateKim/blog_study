@@ -41,6 +41,7 @@
   * [5. 이상현상, 함수 종속성, 정규화](https://abcdefgh123123.tistory.com/460)
   * [6. 관계 대수: 조인, 셀렉트 등](https://abcdefgh123123.tistory.com/461)
   * [7. 데이터 정의어, 조작어 SELECT](https://abcdefgh123123.tistory.com/462)
+  * [8. 조작어 JOIN](https://abcdefgh123123.tistory.com/463)
   
   
   
