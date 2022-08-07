@@ -47,7 +47,8 @@
   
 * **알고리즘**
   * [투포인터](https://abcdefgh123123.tistory.com/451)
-* **알고리즘**
+* **자료구조**
   * [1. 배열 구현 - c++](https://abcdefgh123123.tistory.com/467)
+  * [2. 링크드 리스트 구현 - c++](https://abcdefgh123123.tistory.com/469)
 
 
