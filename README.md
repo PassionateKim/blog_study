@@ -48,6 +48,11 @@
   * [2. 트랜잭션의 개념과 ACID 특징](https://abcdefgh123123.tistory.com/476)
   
   
+* **컴퓨터구조**
+  * 항공대학교 길현영 교수님의 강의를 듣고 정리
+  * [1. 컴퓨터 기본 구성 요소](https://abcdefgh123123.tistory.com/483)
+  
+  
 * **알고리즘**
   * [투포인터](https://abcdefgh123123.tistory.com/451)
 * **자료구조**
