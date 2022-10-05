@@ -46,6 +46,7 @@
   * 기타 db 관련 정리
   * [1. mySql 중복 행 서브 쿼리에 join을 사용하는 이유](https://abcdefgh123123.tistory.com/474)
   * [2. 트랜잭션의 개념과 ACID 특징](https://abcdefgh123123.tistory.com/476)
+  * [3. 제약조건 정리](https://abcdefgh123123.tistory.com/492)
   
   
 * **컴퓨터구조**
