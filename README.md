@@ -53,6 +53,7 @@
   * 항공대학교 길현영 교수님의 강의를 듣고 정리
   * [1. 컴퓨터 기본 구성 요소](https://abcdefgh123123.tistory.com/483)
   * [2. 컴퓨터 성능 계산](https://abcdefgh123123.tistory.com/487)
+  * [3. 명령어 집합](https://abcdefgh123123.tistory.com/493)
   
   
 * **알고리즘**
