@@ -55,6 +55,7 @@
   * [2. 컴퓨터 기본 구성 요소](https://abcdefgh123123.tistory.com/483)
   * [3. 컴퓨터 성능 계산](https://abcdefgh123123.tistory.com/487)
   * [4. 명령어 집합](https://abcdefgh123123.tistory.com/493)
+  * [5. 명령어 집합 분류](https://abcdefgh123123.tistory.com/501)
   
   
 * **알고리즘**
