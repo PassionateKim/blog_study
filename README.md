@@ -56,6 +56,7 @@
   * [3. 컴퓨터 성능 계산](https://abcdefgh123123.tistory.com/487)
   * [4. 명령어 집합](https://abcdefgh123123.tistory.com/493)
   * [5. 명령어 집합 분류](https://abcdefgh123123.tistory.com/501)
+  * [6. 명령어 주소 지정 방식](https://abcdefgh123123.tistory.com/504)
   
   
 * **알고리즘**
