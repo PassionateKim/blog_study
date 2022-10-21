@@ -6,13 +6,16 @@
 
 ## 목차
 
-* **HTTP**
+* **네트워크**
   * 인프런 김영한님의 HTTP 강의를 듣고 정리
   * [1. 인터넷 네트워크](https://abcdefgh123123.tistory.com/373)
   * [2. HTTP 기본](https://abcdefgh123123.tistory.com/377)
   * [3. HTTP 메서드](https://abcdefgh123123.tistory.com/378)
   * [4. HTTP 상태코드](https://abcdefgh123123.tistory.com/379)
   * [5. HTTP 헤더](https://abcdefgh123123.tistory.com/380)
+  
+  * 기타
+  * [1. 쿠키와 세션](https://abcdefgh123123.tistory.com/508)
 
 * **운영체제**
   * kocw 이화여대 반효경 교수님의 운영체제 강의를 듣고 정리
